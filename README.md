@@ -94,11 +94,13 @@ The dashboard offers lots of information about the performance of the dealership
 
 Additionally, based on sales of cars, we've determined which dealers rank top and bottom, making it simple to identify the best performers and those that needs improvement.
 
+<img width="1009" height="565" alt="Car Sales Overview" src="https://github.com/user-attachments/assets/5bb33f03-16fe-4574-879c-03d47ea780f0" />
 
 
+<img width="1004" height="567" alt="Car Sales Analysis" src="https://github.com/user-attachments/assets/5651c9e4-4e35-4b69-bd17-d0d8db463e9e" />
 
 
-
+<img width="1005" height="567" alt="Car Sales Details" src="https://github.com/user-attachments/assets/85f6d04e-bc99-4eed-a1a1-59592707bae8" />
 
 
 
