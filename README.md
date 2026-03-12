@@ -1,4 +1,4 @@
-# Car Sales Dashboard
+# Car Sales Power BI Dashboard
 
 ## Introduction
 
